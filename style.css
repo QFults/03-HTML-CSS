@@ -1,0 +1,30 @@
+    h1 {
+      color: darkblue;
+      border-bottom: 4.3px solid black;
+      font-family: 'Noto Sans', sans-serif;
+    }
+
+    input {
+      border: 2px solid black;
+    }
+
+    textarea {
+      border: 2px solid black;
+    }
+
+    label {
+      color: darkblue;
+      border-bottom: 2px solid black;
+      font-weight: 900;
+    }
+
+    #contact {
+      margin-top: 50px;
+      margin-left: 20px;
+    }
+
+    #myDiv {
+      height: 30px;
+      width: 100%;
+      background-color: rgb(51, 45, 45);
+    }
